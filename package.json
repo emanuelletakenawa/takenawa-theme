@@ -1,0 +1,35 @@
+{
+  "name": "takenawa-theme",
+  "publisher": "Emanuelle Takenawa",
+  "displayName": "Takenawa Theme",
+  "description": "Takenawa Theme. A dark and colorful theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "assets/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emanuelletakenawa/takenawa-theme"
+  },
+  "keywords": [
+    "manu",
+    "takenawa",
+    "dark",
+    "theme",
+    "emanuelle",
+    "color"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Takenawa Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/takenawa-theme-color-theme.json"
+      }
+    ]
+  }
+}
