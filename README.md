@@ -12,7 +12,7 @@ Theme creation was done using `Yo Code` with the help of `Themes VSCode One` pla
 
 - Open your `VsCode`
 - Go to -> `Extensions` or press `Ctrl + Shift + X`
-- Write : `takenawa-theme`
+- Write : `Takenawa Theme`
 - Select it to install
 
 ## Feito com 💗 por:
