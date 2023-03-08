@@ -1,4 +1,7 @@
 <h1 align="center">
+     <img src="./assets/icon.png" alt="logo" width=150>
+</h1>
+<h1 align="center">
      <img src="https://i.ibb.co/CM4kTs9/Captura-de-tela-2023-03-08-161258.png" alt="logo">
 </h1>
 
