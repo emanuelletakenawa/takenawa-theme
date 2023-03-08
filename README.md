@@ -1,5 +1,5 @@
 <h1 align="center">
-     <img src="https://i.ibb.co/WWNgwv8/Captura-de-tela-2023-03-06-193754.png" alt="logo" width="850">
+     <img src="https://i.ibb.co/CM4kTs9/Captura-de-tela-2023-03-08-161258.png" alt="logo">
 </h1>
 
 ## ⭐ About:
