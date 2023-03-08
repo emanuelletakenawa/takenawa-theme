@@ -3,7 +3,7 @@
   "publisher": "emanuelletakenawa",
   "displayName": "Takenawa Theme",
   "description": "Takenawa Theme. A dark and colorful theme!",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.76.0"
   },
