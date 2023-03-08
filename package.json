@@ -1,9 +1,9 @@
 {
   "name": "takenawa-theme",
-  "publisher": "Emanuelle Takenawa",
+  "publisher": "emanuelletakenawa",
   "displayName": "Takenawa Theme",
   "description": "Takenawa Theme. A dark and colorful theme!",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.76.0"
   },
