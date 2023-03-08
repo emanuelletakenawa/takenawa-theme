@@ -15,7 +15,7 @@ Theme creation was done using `Yo Code` with the help of `Themes VSCode One` pla
 - Write : `Takenawa Theme`
 - Select it to install
 
-## Feito com 💗 por:
+## made with 💗 by:
 
 - [@emanuelletakenawa](https://github.com/emanuelletakenawa)
 - [![linkedin](https://img.shields.io/badge/-Acesse%20meu%20LinkedIn-pink)](https://www.linkedin.com/in/emanuelle-takenawa-32b6a1257)
