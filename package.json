@@ -28,7 +28,7 @@
       {
         "label": "Takenawa Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/takenawa-theme-color-theme.json"
+        "path": "./themes/takenawa-theme.json"
       }
     ]
   }
