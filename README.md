@@ -8,6 +8,8 @@ The Takenawa Theme is a dark and colorful theme for Visual Studio Code.
 
 Theme creation was done using `Yo Code` with the help of `Themes VSCode One` platform. Later published on `Azure Marketplace`
 
+<hr>
+
 ## ⭐ Install:
 
 - Open your `VsCode`
@@ -15,9 +17,13 @@ Theme creation was done using `Yo Code` with the help of `Themes VSCode One` pla
 - Write : `Takenawa Theme`
 - Select it to install
 
+<hr>
+
 ## Made with 💗 by:
 
 - [@emanuelletakenawa](https://github.com/emanuelletakenawa)
-- [![linkedin](https://img.shields.io/badge/-Acesse%20meu%20LinkedIn-pink)](https://www.linkedin.com/in/emanuelle-takenawa-32b6a1257)
+
+- [![linkedin](https://img.shields.io/badge/-LinkedIn-pink)](https://www.linkedin.com/in/emanuelle-takenawa-32b6a1257) connect with me!
+<hr>
 
 **Enjoy!!**
